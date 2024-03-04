@@ -1,3 +1,4 @@
-Hi there, how are you?
+Hello, how are you?
 Apple, mango, banana
-Zebra, goat
+Zebra, goat, cow
+
